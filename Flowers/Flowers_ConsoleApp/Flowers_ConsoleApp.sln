@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flowers_ConsoleApp", "Flowers_ConsoleApp\Flowers_ConsoleApp.csproj", "{D809FEF5-14C6-4DCC-835C-96C407417BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flowers_ClassLibrary", "Flowers_ClassLibrary\Flowers_ClassLibrary.csproj", "{4D450061-310A-474F-BB49-49AD62DE18EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D809FEF5-14C6-4DCC-835C-96C407417BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D809FEF5-14C6-4DCC-835C-96C407417BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D809FEF5-14C6-4DCC-835C-96C407417BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D809FEF5-14C6-4DCC-835C-96C407417BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D450061-310A-474F-BB49-49AD62DE18EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D450061-310A-474F-BB49-49AD62DE18EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D450061-310A-474F-BB49-49AD62DE18EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D450061-310A-474F-BB49-49AD62DE18EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {990C8399-8D25-49E5-B410-E993CF81B57B}
+	EndGlobalSection
+EndGlobal
